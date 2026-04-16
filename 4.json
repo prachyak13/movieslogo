@@ -1,0 +1,79 @@
+{
+    "name": "Documentary Channels",
+    "author": "Custom Playlist",
+    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/discovery-channel-logo-png_seeklogo-268048.png",
+    "groups": [
+        {
+            "name": "สารคดี (Documentary)",
+            "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/discovery-channel-logo-png_seeklogo-268048.png",
+            "stations": [
+                {
+                    "name": "animalshow",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/nextstep-anm-1.jpg",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/animalshow.m3u8",
+                    "info": "Documentary"
+                },
+                {
+                    "name": "animalshow สำรอง",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/maxresdefault.jpg",
+                    "url": "https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/animalshow.m3u8",
+                    "info": "Backup"
+                },
+                {
+                    "name": "Discovery",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/discovery-channel-logo-png_seeklogo-268048.png",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/discovery.m3u8",
+                    "info": "Documentary"
+                },
+                {
+                    "name": "Discovery สำรอง",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",
+                    "url": "https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/discovery.m3u8",
+                    "info": "Backup"
+                },
+                {
+                    "name": "True Discovery",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/978fc2da-8f65-410f-bff8-931b22c37324.png",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truediscovery.m3u8",
+                    "info": "TrueVisions"
+                },
+                {
+                    "name": "History Channel",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/history.m3u8",
+                    "info": "Documentary"
+                },
+                {
+                    "name": "History Channel สำรอง",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+                    "url": "https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/history.m3u8",
+                    "info": "Backup"
+                },
+                {
+                    "name": "Samrujlok",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxm6Vy9ALAVpQNij3Le0y1tGy1lghDa_B-aw&s",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/samrujlok.m3u8",
+                    "info": "Documentary"
+                },
+                {
+                    "name": "True Explore Sci",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truesci.m3u8",
+                    "info": "TrueVisions"
+                },
+                {
+                    "name": "True Explore Sci (Backup)",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",
+                    "url": "https://raw.githubusercontent.com/prachyak13/server195/refs/heads/main/truescience.m3u8",
+                    "info": "Backup"
+                },
+                {
+                    "name": "True Wild",
+                    "image": "https://raw.githubusercontent.com/prachyak13/movieslogo/main/movie/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",
+                    "url": "https://raw.githubusercontent.com/prachyak13/inh/refs/heads/main/truewild.m3u8",
+                    "info": "TrueVisions"
+                }
+            ]
+        }
+    ]
+}
